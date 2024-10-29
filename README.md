@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical)](https://github.com/iggarsaudev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical&locale=es)](https://github.com/iggarsaudev)
 
 </div>
 
