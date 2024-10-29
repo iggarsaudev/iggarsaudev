@@ -11,7 +11,9 @@
 
 <div align="center">
 
+## 📊 Estadísticas
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical&locale=es)](https://github.com/iggarsaudev)
+
 
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iggarsaudev&layout=compact&hide_border=true&theme=radical&locale=es)](https://github.com/iggarsaudev)
