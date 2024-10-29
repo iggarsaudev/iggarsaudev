@@ -35,7 +35,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FD8B27?style=for-the-badge&logo=zapier&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![IA](https://img.shields.io/badge/IA-5F8C76?style=for-the-badge&logo=OpenAI&logoColor=white)
+!IA(https://img.shields.io/badge/IA-5F8C76?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 
 ---
