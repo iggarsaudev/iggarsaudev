@@ -1,16 +1,23 @@
-# Hola, soy Nacho 👋  
+# Hola, soy Nacho 👋
 
 **<span style="font-size: 2em;">Programador Java y SQL</span>**
-
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
+---
 
-💻 **En la actualidad, estudiando Máster en Full Stack Developer** con los siguientes lenguajes y herramientas:
+**Echa un vistazo a mi actividad y proyectos en GitHub:**
 
-<br>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical)](https://github.com/iggarsaudev)
+
+</div>
+
+---
+
+💻 **Actualmente estudiando el Máster en Full Stack Developer en EBIS Business Techschool** con los siguientes lenguajes y herramientas:
 
 <div align="center">
 
@@ -21,21 +28,21 @@
 
 </div>
 
-<br>
+---
 
-📚 **Siempre aprendiendo**, en áreas como **bases de datos** y **programación**.
-
-🎯 **Objetivos 2024/2025**: Desarrollar y optimizar aplicaciones web, contribuir a proyectos open source y mantenerme al día con las últimas tendencias tecnológicas.
-
-### Conecta conmigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-garcía-sausor)
-
-
-🌱 **Actualmente explorando herramientas para mejorar mi flujo de trabajo:**
+**Actualmente explorando herramientas para mejorar mi flujo de trabajo:**
 
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/tu-usuario)
 [![Zapier](https://img.shields.io/badge/Zapier-FD8B27?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com/app/dashboard)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-5F8C76?style=for-the-badge&logo=OpenAI&logoColor=white)
+
+---
+
+## Conéctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iggarsaudev)
+
 
 
