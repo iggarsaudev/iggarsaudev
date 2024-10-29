@@ -12,7 +12,7 @@
 <div align="center">
 
 ## 📊 Estadísticas
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical&locale=es)](https://github.com/iggarsaudev)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical&locale=es&hide_title=true)](https://github.com/iggarsaudev)
 
 
 
