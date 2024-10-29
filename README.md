@@ -17,7 +17,7 @@
 
 ---
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=iggarsaudev&layout=compact&hide_border=true&theme=radical&locale=es)(https://github.com/iggarsaudev)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iggarsaudev&layout=compact&hide_border=true&theme=radical&locale=es)](https://github.com/iggarsaudev)
 
 
 💻 **Actualmente estudiando el Máster en Full Stack Developer en EBIS Business Techschool** con los siguientes lenguajes y herramientas:
