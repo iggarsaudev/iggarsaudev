@@ -15,7 +15,7 @@
 
 
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iggarsaudev&layout=compact&hide_border=true&theme=radical&locale=es)](https://github.com/iggarsaudev)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iggarsaudev&layout=compact&hide_border=true&theme=radical&locale=es&hide_title=true)](https://github.com/iggarsaudev)
 
 </div>
 
