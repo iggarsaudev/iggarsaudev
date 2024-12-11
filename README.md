@@ -42,6 +42,8 @@
 
 ---
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&locale=en" alt="iggarsaudev" /></p>
+
 ## Conéctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
