@@ -11,9 +11,9 @@
 
 <div align="center">
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&hide_border=true&count_private=true&theme=radical&locale=es&hide_title=true)](https://github.com/iggarsaudev)
+[![Estadísticas]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&locale=es&layout=compact" alt="iggarsaudev" /></p>
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iggarsaudev&layout=compact&hide_border=true&theme=radical&locale=es&hide_title=true)](https://github.com/iggarsaudev)
+[![Lenguajes más usados]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical&locale=es" alt="iggarsaudev" /></p>
 
 </div>
 
@@ -41,12 +41,6 @@
 
 
 ---
-[![Estadísticas]
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=dark&locale=en&layout=compact" alt="iggarsaudev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=dark&locale=en" alt="iggarsaudev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iggarsaudev&theme=dark" alt="iggarsaudev" /></p>
 
 ## Conéctame
 
