@@ -41,8 +41,8 @@
 
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&locale=en" alt="iggarsaudev" /></p>
+[![Estadísticas
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&locale=es" alt="iggarsaudev" /></p>
 
 ## Conéctame
 
