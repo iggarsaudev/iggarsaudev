@@ -9,11 +9,9 @@
 
 **📊 Echa un vistazo a mi actividad y proyectos en GitHub:**
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical" alt="GitHub Activity" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical) ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact)
 
 </div>
 
@@ -61,11 +59,9 @@
 
 **📊 Check out my activity and projects on GitHub:**
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical" alt="GitHub Activity" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical) ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact)
 
 </div>
 
