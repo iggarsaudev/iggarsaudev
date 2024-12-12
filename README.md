@@ -9,11 +9,11 @@
 
 **📊 Echa un vistazo a mi actividad y proyectos en GitHub:**
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&locale=es&layout=compact" alt="iggarsaudev" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical" alt="GitHub Activity" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical&locale=es" alt="iggarsaudev" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -26,7 +26,7 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | --- | --- | --- | --- | --- |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white) | ![Testing](https://img.shields.io/badge/Testing-6C5CE7?style=for-the-badge&logo=testing-library&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![IA](https://img.shields.io/badge/IA-5F8C76?style=for-the-badge&logo=OpenAI&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white) | ![Testing](https://img.shields.io/badge/Testing-6C5CE7?style=for-the-badge&logo=testing-library&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
@@ -61,11 +61,11 @@
 
 **📊 Check out my activity and projects on GitHub:**
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&locale=en&layout=compact" alt="iggarsaudev" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical" alt="GitHub Activity" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical&locale=en" alt="iggarsaudev" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -78,7 +78,7 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | --- | --- | --- | --- | --- |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white) | ![Testing](https://img.shields.io/badge/Testing-6C5CE7?style=for-the-badge&logo=testing-library&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![AI](https://img.shields.io/badge/AI-5F8C76?style=for-the-badge&logo=OpenAI&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white) | ![Testing](https://img.shields.io/badge/Testing-6C5CE7?style=for-the-badge&logo=testing-library&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
