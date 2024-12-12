@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical&cache_seconds=300) ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact&cache_seconds=1800)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical&cache_seconds=1800) ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact&cache_seconds=1800)
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical) ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=iggarsaudev&show_icons=true&theme=radical&cache_seconds=1800) ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=iggarsaudev&show_icons=true&theme=radical&layout=compact&cache_seconds=1800)
 
 </div>
 
